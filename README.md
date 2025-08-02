@@ -14,8 +14,8 @@ Navigate through presentation slides using swipe gestures (left/right hand movem
 ❌ Close Tab/Window
 Instantly close browser tabs or application windows using a specific gesture (e.g., a "pinch and drag" or "cross" motion).
 
-⏻ System Shutdown
-Execute system shutdown by holding a specific gesture for a few seconds (e.g., open palm or fist).
+⏻ Zoom Control
+Pinch gestures used to zoom in/out on web pages, images, or applications.
 
 🛠️ Technologies Used
 Python – Core programming language.
